@@ -3,7 +3,7 @@
   "description": "",
   "main": "",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/CallaRudolph/js-angular-to-do",
   "ignore": [
     "**/.*",
     "node_modules",
